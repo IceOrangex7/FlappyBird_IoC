@@ -1,0 +1,2 @@
+Damage,100
+Cube,100
